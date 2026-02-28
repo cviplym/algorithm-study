@@ -1,4 +1,10 @@
 '''
+[Soure] 
+- BOJ 1926 그림: https://www.acmicpc.net/problem/1926
+
+[References]
+- YouTube: https://www.youtube.com/watch?v=ansd5B27uJM&list=PLi-xJrVzQaxXC2Aausv_6mlOZZ2g2J6YB&index=2
+
 1. 아이디어
 - 2중 for => 값 1 && 방문 X => BFS
 - BFS 돌면서 그림 개수 +1, 최댓값을 갱신
